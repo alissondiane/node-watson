@@ -4,7 +4,7 @@
   "description": "node-watson",
   "main": "index.html",
   "scripts": {
-    "dev":"lite-server",
+    "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/alissondiane/node-watson#readme",
   "devDependencies": {
-    "lite-server": "^2.5.4"
+    "lite-server": "^2.5.4",
+    "ibm-watson": "^5.7.0"
+  },
+  "dependencies": {
+    "ibm-watson": "^5.7.0"
   }
 }
