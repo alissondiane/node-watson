@@ -1,0 +1,19 @@
+{
+  "name": "watson",
+  "version": "1.0.0",
+  "description": "node-watson",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alissondiane/node-watson.git"
+  },
+  "author": "Alisson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alissondiane/node-watson/issues"
+  },
+  "homepage": "https://github.com/alissondiane/node-watson#readme"
+}
